@@ -1,0 +1,10 @@
+Gambler strategies
+- place ships randomly
+    - but also near sides
+- use probability for shots
+- keep log of how many times a ship is in a location and weight probability
+
+Learning gambler strategies
+- copy above
+- have 2-3 random ship strategies to rotate
+- hope for the best?
